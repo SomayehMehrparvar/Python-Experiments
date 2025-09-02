@@ -1,7 +1,7 @@
 # Python-Experiments
 # Hands-On Assignment #1
 
-This repository contains my work for ** *Applied Data Science I* **. It showcases my progress in learning Python, Jupyter, and data science concepts.
+This repository contains my work for ***Applied Data Science I***. It showcases my progress in learning Python, Jupyter, and data science concepts.
 
 ---
 
