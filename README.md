@@ -7,7 +7,7 @@ This repository contains my work for ***Applied Data Science I***. It showcases 
 
 ## Plan
 
-I will complete all assignments and projects using [Jupyter](https://jupyter.org/) notebooks, documenting my process clearly so others can follow along. I plan to practice regularly, seek feedback, and steadily improve my skills.
+I will complete all assignments and projects using [Jupyter](https://jupyter.org/) notebooks, documenting my process clearly so others can follow along. 
 
 ## About Me
 
